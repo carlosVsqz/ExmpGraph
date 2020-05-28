@@ -1,0 +1,7 @@
+vertices:
+a,b,c,d,e,f,g,h,i,j,k,l,m,o,p,q,r,s,t,u,v,w,x,y,z,
+
+adyacentes:
+ab,cd,bf,cb,io,kp,tx,yx,ae,if,jk,bg,hc,fg,ei,gh,lh,im,af,jo,ps, qu,tu,mr,lq,kg,mo,os,pt,pq,rs,sw,xw,wz,vr,
+
+por default el peso es de 1,
